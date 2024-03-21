@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlexandrosV20 (Alexandros Vithoulkas)
-- 👀 I’m interested in programming, networks and security.
+- 👀 I’m interested in programming, networks and web development.
 - 🌱 I’m currently working at IT&T department at Zakynthos International Airport.
 - 📫 How to reach me - gmail : alexandrosvithoulkas@gmail.com 
 
